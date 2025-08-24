@@ -48,8 +48,6 @@ A modelagem do sistema foi essencial para definir claramente os requisitos, func
 
 
    <img src='https://raw.githubusercontent.com/endlymelo/AtividadeEgydioIndividual.4ADS/refs/heads/main/diagrama%20de%20caso%20de%20uso.PNG'>  <br/>
-  <strong>Callme App</strong>
-  <br/>
 
 * 📌 [Diagrama de Casos de Uso](https://github.com/endlymelo/AtividadeEgydioIndividual.4ADS/blob/main/Diagrama_de_caso_de_uso)
 * 📌 [Descrição dos Casos de Uso](https://github.com/endlymelo/AtividadeEgydioIndividual.4ADS/blob/main/Diagrama_de_caso_de_uso)
