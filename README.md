@@ -90,7 +90,7 @@ npm run android
 Fique à vontade para tirar dúvidas, sugerir melhorias ou apenas dizer "oi":
 
 * GitHub: [@endlymelo](https://github.com/endlymelo)
-* Email: *adicione aqui se quiser*
+* Email: *endlymelo5@gmail.com*
 
 ---
 
