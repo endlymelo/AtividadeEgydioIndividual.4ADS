@@ -46,7 +46,7 @@ A modelagem do sistema foi essencial para definir claramente os requisitos, func
 
 ## 🧠 Diagrama de Caso de Uso
 
- align="center">  
+
    <img src='https://raw.githubusercontent.com/endlymelo/AtividadeEgydioIndividual.4ADS/refs/heads/main/diagrama%20de%20caso%20de%20uso.PNG'>  <br/>
   <strong>Callme App</strong>
   <br/>
