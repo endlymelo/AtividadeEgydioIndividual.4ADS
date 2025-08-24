@@ -44,9 +44,15 @@ Desenvolvido com **React Native** e **TypeScript**, o projeto foi gerenciado com
 
 A modelagem do sistema foi essencial para definir claramente os requisitos, funcionalidades e fluxos da aplicação.
 
-* 📌 [Diagrama de Casos de Uso](https://github.com/Devluisgsouza/Callme_App/blob/main/Callme/Modelagem_de_Requisitos/Diagrama_de_caso_de_uso_sistema.asta)
-* 📌 [Backlog de Sprints](https://github.com/Devluisgsouza/Callme_App/blob/main/Callme/Modelagem_de_Requisitos/Sprints_Backlog.docx)
-* 📌 [Descrição dos Casos de Uso](https://github.com/Devluisgsouza/Callme_App/blob/main/Callme/Modelagem_de_Requisitos/Descrição_caso_de_uso.docx)
+## 🧠 Diagrama de Caso de Uso
+
+<h1 align="center">  
+   <img src='https://raw.githubusercontent.com/endlymelo/AtividadeEgydioIndividual.4ADS/refs/heads/main/logoCallmeapp%20(1).png'>  <br/>
+  <strong>Callme App</strong>
+  <br/>
+
+* 📌 [Diagrama de Casos de Uso](https://github.com/endlymelo/AtividadeEgydioIndividual.4ADS/blob/main/Diagrama_de_caso_de_uso)
+* 📌 [Descrição dos Casos de Uso](https://github.com/endlymelo/AtividadeEgydioIndividual.4ADS/blob/main/Diagrama_de_caso_de_uso)
 
 ---
 
