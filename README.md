@@ -1,7 +1,7 @@
 
 
 <h1 align="center">  
-   <img src='./Callme/code/src/assets/logoCallmeapp.png'>  <br/>
+   <img src='(https://raw.githubusercontent.com/endlymelo/AtividadeEgydioIndividual.4ADS/refs/heads/main/logoCallmeapp%20(1).png)'>  <br/>
   <strong>Callme App</strong>
   <br/>
   <em>The Future of Service</em>
