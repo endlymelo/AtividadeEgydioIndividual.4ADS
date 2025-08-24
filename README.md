@@ -101,5 +101,3 @@ Fique à vontade para tirar dúvidas, sugerir melhorias ou apenas dizer "oi":
 
 ---
 
-
-Me avise se quiser essas melhorias finais!
