@@ -1,8 +1,7 @@
 
 
 <h1 align="center">  
-    <img src='./Callme/code/src/assets/logoCallmeapp.png'>
-  <br/>
+   <img src='./Callme/code/src/assets/logoCallmeapp.png'>  <br/>
   <strong>Callme App</strong>
   <br/>
   <em>The Future of Service</em>
