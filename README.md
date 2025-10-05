@@ -68,7 +68,7 @@ Com o uso de Inteligência Artificial, o sistema automatiza a classificação do
 
 ---
 ## 📈 Cronograma de Evolução
-<img src="Callme/Cronograma.png" alt="Cronograma"/>
+<img src=["Callme/Cronograma.png" alt="Cronograma"](https://github.com/endlymelo/AtividadeEgydioIndividual.4ADS/blob/main/Cronograma.png?raw=true)/>
 
 ---
 ## 📅 Tabela das Sprints
