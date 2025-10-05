@@ -150,6 +150,3 @@ $ npx expo startrr
 |-----------------------|---------|---------|
 | Endly Maria Bezerra Melo | F358EC0 | DS4P48  |
 
-| Nome do Aluno         | RA      | Turma   |
-|-----------------------|---------|---------|
-| Danilo Alves da Silva | R080CJ4 | DS4P48  |
