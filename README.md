@@ -38,7 +38,7 @@ Com o uso de Inteligência Artificial, o sistema automatiza a classificação do
 ---
 
 ##  📋 Backlog do Produto
-Para ver o backlog do produto, acesse: [Backlog do Produto](https://github.com/Nilo40/Backlog_do_produto/blob/main/README.md)
+Para ver o backlog do produto, acesse: [Backlog do Produto](https://github.com/endlymelo/-Backlog-do-Produto/blob/main/README.md)
 
 ---
 ## 📈 Cronograma de Evolução
