@@ -71,7 +71,7 @@ Para ver o tabela das sprints, acesse: [Tabela das Sprints](https://github.com/e
 
 ## 🗒️ Documentação  
 
-- [📌 Diagramas UML](https://github.com/Nilo40/AtividadeEgydio/Callme/Modelagem_de_Requisitos/Diagrama_de_caso_de_uso_sistema_corrigido.asta)  
+- [📌 Diagramas UML](https://github.com/endlymelo/AtividadeEgydioIndividual.4ADS/raw/refs/heads/main/PIM%203%20SEMESTRE.doc)  
 - [📌 Sprint Backlog](https://github.com/endlymelo/AtividadeEgydioIndividual.4ADS/raw/refs/heads/main/Sprints_Backlog.docx)  
 - [📌 Casos de Uso](https://github.com/endlymelo/AtividadeEgydioIndividual.4ADS/raw/refs/heads/main/Descri%C3%A7%C3%A3o_caso_de_uso.docx)  
 - [📌 Documentação Completa](https://github.com/endlymelo/AtividadeEgydioIndividual.4ADS/raw/refs/heads/main/PIM%203%20SEMESTRE.doc)  
