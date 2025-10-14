@@ -76,8 +76,6 @@ Para ver o tabela das sprints, acesse: [Tabela das Sprints](https://github.com/e
 - [📌 Casos de Uso](https://github.com/Devluisgsouza/Callme_App/blob/main/Callme/Modelagem_de_Requisitos/Descrição_caso_de_uso.docx)  
 - [📌 Documentação Completa](https://github.com/Devluisgsouza/Callme_App/blob/main/Callme/PIM/PIM%203%20SEMESTRE.doc)  
 
-<img src="Callme/Diagrama.jpg" alt="Diagrama"/>
-
 ---
 
 ## 🚀 Como Rodar o Projeto  
