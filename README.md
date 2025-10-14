@@ -42,7 +42,7 @@ Para ver o backlog do produto, acesse: [Backlog do Produto](https://github.com/e
 
 ---
 ## 📈 Cronograma de Evolução
-Para ver o cronograma de evolução, acesse: [Cronograma de Evolução] <img src= 'https://github.com/endlymelo/AtividadeEgydioIndividual.4ADS/blob/main/Cronograma.png?raw=true'/>_evolucao)
+Para ver o cronograma de evolução, acesse: [Cronograma de Evolução](https://github.com/endlymelo/Cronograma-de-Evolucao)
 
 ---
 ## 📅 Tabela das Sprints
